@@ -11,8 +11,8 @@ comments: true
 math: true
 mermaid: true
 image:
-  path: images/f-d.webp
-  alt: Below is the template for the subsequent paragraph.
+  path: images/Feb-2024/w-d-flow.png
+  alt: wind turbine for first attempt
 
 ---
 
