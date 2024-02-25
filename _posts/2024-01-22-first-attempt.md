@@ -11,7 +11,7 @@ comments: true
 math: true
 mermaid: true
 image:
-  path: images/wind-turbine.webp
+  path: images/Fluid Dynamics.webp
   alt: Below is the template for the subsequent paragraph.
 
 ---
