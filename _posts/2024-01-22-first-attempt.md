@@ -10,6 +10,9 @@ tags: [weekly updates]     # TAG names should always be lowercase
 comments: true
 math: true
 mermaid: true
+image:
+  path: /images/Feb.2024/Fluid Dynamics.webp
+  alt: Below is the template for the subsequent paragraph.
 
 ---
 
