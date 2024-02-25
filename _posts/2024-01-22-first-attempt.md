@@ -11,7 +11,7 @@ comments: true
 math: true
 mermaid: true
 image:
-  path: _site/images/Feb.2024/math.jpg
+  path: _site/images/f-d.webp
   alt: Below is the template for the subsequent paragraph.
 
 ---
