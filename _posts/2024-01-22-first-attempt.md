@@ -10,8 +10,7 @@ tags: [weekly updates]     # TAG names should always be lowercase
 comments: true
 math: true
 mermaid: true
-image:
-  path: /images/Feb.2024/Fluid Dynamics.webp
+
 ---
 
 This weekly update provides a comprehensive overview of the key developments and noteworthy events from the past week.
