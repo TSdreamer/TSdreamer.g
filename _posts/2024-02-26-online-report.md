@@ -35,9 +35,9 @@ The progress report focuses on multi-scale electrolysis energy system modeling,e
 2. Paper 2 : Component Level
 : The second part of Chapter 3 focuses on the cell level descriptor database analysis for Proton Exchange Membrane Water Electrolysis (PEMWE). The section outlines the development of a comprehensive database aimed at reducing the power-specific cost and increasing the efficiency, reliability, and durability of PEMWE systems. By leveraging artificial intelligence and machine learning, the research introduces a novel method of data augmentation using GANs and Gaussian blur techniques to address the challenge of limited dataset sizes commonly encountered in laboratory settings. The database, consisting of over one thousand datasets and nearly forty thousand data points, allows for the prediction of membrane electrode assembly performance with remarkable accuracy. This approach not only enhances the understanding and optimization of PEMWEs but also exemplifies the potential of data science in revolutionizing renewable energy technologies.
 <p align="center">
-  <img src="/images/Feb-2024/cell-outline-modified.png" width="780" height="420" alt="Desktop View">
+  <img src="/images/Feb-2024/cell-outline-modified.png" width="720" height="400" alt="Desktop View">
   <br>
-  <span>The development trend-line of PEM water electrolyser and application of AI in the systems</span>
+  <span>Background Literature Review Survey</span>
 </p>
 
 
