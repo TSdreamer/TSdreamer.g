@@ -10,10 +10,11 @@ tags: [weekly updates]     # TAG names should always be lowercase
 comments: true
 math: true
 mermaid: true
-image:
-  path: images/Feb-2024/ml-algorithm.jpg
-  alt: General machine learning algorithm 
+
 ---
+
+![Desktop View](/images/Feb-2024/ml-algorithm.jpg){: width="972" height="589" }
+_General machine learning algorithm _
 
 
 ## Key Achievements of this Week:(40 working hours)

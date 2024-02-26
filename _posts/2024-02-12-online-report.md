@@ -10,11 +10,11 @@ tags: [weekly updates]     # TAG names should always be lowercase
 comments: true
 math: true
 mermaid: true
-image:
-  path: images/Feb-2024/f-d.webp
-  alt: wind turbine for testing use
+
 ---
-![Desktop View](/images/0124.jpg){: width="452" height="279" }
+![Desktop View](/images/Feb-2024/f-d.webp){: width="972" height="589" }
+_wind turbine for testing use_
+
 
 This weekly update provides a comprehensive overview of the key developments and noteworthy events from the past week.
 Here has listed some latex version mathmatics expressions for testing and future use.
