@@ -36,7 +36,7 @@ Annual Review : Paper 1
 
 
 Annual Review : Paper 2
-![Desktop View](/images/Feb-2024/cell-outline-modified.png){: width="972" height="589"}
+![Desktop View](/images/Feb-2024/cell-outline-modified.png){: width="972" height="589" .w-80}
 : The second part of Chapter 3 focuses on the cell level descriptor database analysis for Proton Exchange Membrane Water Electrolysis (PEMWE). The section outlines the development of a comprehensive database aimed at reducing the power-specific cost and increasing the efficiency, reliability, and durability of PEMWE systems. By leveraging artificial intelligence and machine learning, the research introduces a novel method of data augmentation using GANs and Gaussian blur techniques to address the challenge of limited dataset sizes commonly encountered in laboratory settings. The database, consisting of over one thousand datasets and nearly forty thousand data points, allows for the prediction of membrane electrode assembly performance with remarkable accuracy. This approach not only enhances the understanding and optimization of PEMWEs but also exemplifies the potential of data science in revolutionizing renewable energy technologies.
 
 
