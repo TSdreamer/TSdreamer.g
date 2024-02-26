@@ -24,7 +24,7 @@ image:
 | Personal Website Construction| 10 hours more    | +25%    |
 
 
-### Research Progress
+## Research Progress
 The progress report focuses on multi-scale electrolysis energy system modeling,emphasizing two main areas: system level operational dynamics optimization using Generative Adversarial Networks (GANs) and cell level descriptor database analysis. 
 
 1. Paper 1 : System Level
@@ -49,7 +49,7 @@ The progress report focuses on multi-scale electrolysis energy system modeling,e
 
 
 
-### This Weeks' Plan(80 hours)
+## This Weeks' Plan(80 hours)
 
 - [ ] This Week's Plan
   + [ ] Review and Finalize Paper 2(component level) for Submission:
