@@ -49,14 +49,14 @@ The progress report focuses on multi-scale electrolysis energy system modeling,e
 
 
 
-## This Weeks' Plan(80 hours)
+## This Weeks' Schedule (80 hours allocated)
 
-- [ ] This Week's Plan
+- [ ] This Week's Schedule
   + [ ] Review and Finalize Paper 2(component level) for Submission:
   + [ ] Incorporate Findings from Recent Work to Paper 3(system level): 
   + [ ] Organize the formulas and data sources appearing in the fourth article and write an article plan
 
-- [ ] This Month's Plan
+- [ ] This Month's Outcome
   + [x] Annual Review: 
   + [ ] Paper 2 Finalization
   + [ ] Paper 3 Model Consturction
@@ -65,5 +65,7 @@ The progress report focuses on multi-scale electrolysis energy system modeling,e
   + [x] Paper 2 and 3 Submission
   + [ ] Paper 4 and 5 Proposal
   + [ ] Progress Report and Business Plan
+  + [ ] 1 Conference Registration
+
 
 
