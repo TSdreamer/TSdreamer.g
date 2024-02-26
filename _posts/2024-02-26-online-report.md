@@ -13,17 +13,16 @@ mermaid: true
 image:
   path: /images/Feb-2024/M-L-A.png
   alt: Machine learning algorithms 
-
-
 ---
 
 ## Key Achievements of this Week:(Working hours:40)
-
-| Task | Status | Completion |
+| Task | Status | Time Devoted |
 |:---------------------------------------------------|:-------|-----------:|
 | 1st Year Annual Review                             | 35/40  | 87.5%      |
 | Carbon Calculation Training (City-level Database Provided) | 3/40   | 7.5%       |
 | Preparation of 4th Version of TSu BP               | 2/40   | 5%         |
+| Construction of Personal Website             | 10   | +5%         |
+
 
 ### Research Progress
 The progress report focuses on multi-scale electrolysis energy system modeling,emphasizing two main areas: system level operational dynamics optimization using Generative Adversarial Networks (GANs) and cell level descriptor database analysis. 
