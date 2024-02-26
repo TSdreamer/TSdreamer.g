@@ -12,7 +12,6 @@ math: true
 mermaid: true
 image:
   path: /images/Feb-2024/M-L-A.png
-  alt: Machine learning algorithms 
 ---
 
 ## Key Achievements of this Week:(Working hours:50)
