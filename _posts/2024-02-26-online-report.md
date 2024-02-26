@@ -39,7 +39,8 @@ The progress report focuses on multi-scale electrolysis energy system modeling,e
   <span>Background Literature Review Survey</span>
 </p>
 
-3. Carbon Emission : Dataset Provided
+## Team Contribution
+1. Carbon Emission : Dataset Provided
 ![Desktop View](/images/Feb-2024/city-carbon.png){: width="972" height="589" .w-50 .right}
 : Based on emissions data for 182 Chinese cities from 2010, I provided PhD students with datasets and algorithms for carbon calculation research. This mentorship, offering access to emissions data and analytical methods, aims to enhance their ability to conduct environmental assessments. This effort advances their research skills and contributes to understanding urban emissions, supporting effective carbon management and sustainability strategies.
 
