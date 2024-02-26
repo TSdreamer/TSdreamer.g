@@ -13,10 +13,7 @@ mermaid: true
 ---
 
 ![Desktop View](/images/Feb-2024/w-d-flow.png){: width="972" height="589" }
-_wind turbine for testing use_
-
-
-
+_A systematic graph of wind turbine for testing purpose_
 
 This weekly update provides a comprehensive overview of the key developments and noteworthy events from the past week.
 Here has listed some latex version mathmatics expressions for testing and future use.

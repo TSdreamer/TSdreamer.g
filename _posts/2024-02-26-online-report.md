@@ -14,19 +14,26 @@ mermaid: true
 ---
 
 ![Desktop View](/images/Feb-2024/ml-algorithm.jpg){: width="972" height="589" }
-_General machine learning algorithm _
+_General machine learning algorithm_
 
 
-## Key Achievements of this Week:(40 working hours)
+## Key Achievements of this Week:(Working hours:40)
 
 > Complete the upload of the `1st Year Annual Review`(35/40).
 {: .prompt-tip }
 > Carbon Calculation Training about `City-level Database Provided`(3/40).
 {: .prompt-tip }
-> Preparation of `4th Version of BP`(2/40).
+> Preparation of `4th Version of TSu BP`(2/40).
 {: .prompt-tip }
 
-uisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales. Aliquam ante lorem, ornare a feugiat ac, finibus nec mauris. Vivamus ut tristique nisi. Sed vel leo vulputate, efficitur risus non, posuere mi. Nullam tincidunt bibendum rutrum. Proin commodo ornare sapien. Vivamus interdum diam sed sapien blandit, sit amet aliquam risus mattis. Nullam arcu turpis, mollis quis laoreet at, placerat id nibh. Suspendisse venenatis eros eros.
+The progress report focuses on multi-scale electrolysis energy system modeling,emphasizing two main areas: system level operational dynamics optimization using Generative Adversarial Networks (GANs) and cell level descriptor database analysis. 
+
+The first section outlines the use of GANs to augment data for optimizing the operational dynamics of an electrolysis system, highlighting the process of generating synthetic data to overcome the limitations of small sample sizes and enhance model training.
+
+![A visual representation of the process of using Generative Adversarial Networks (GANs) to generate synthetic data for enhancing the training of models within an electrolysis energy system.](/images/Feb-2024/system-outline-modified.png)
+
+
+The second section delves into the development of a comprehensive database for proton exchange membrane water electrolysis (PEMWE), using machine learning to predict membrane electrode assembly performance, showcasing the application of data science in improving electrolysis efficiency and reliability. This approach underscores the importance of integrating advanced computational techniques in renewable energy research to achieve significant strides in hydrogen production technology.
 
 # H1 - heading
 {: .mt-4 .mb-0 }

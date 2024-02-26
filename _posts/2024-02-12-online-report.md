@@ -12,8 +12,8 @@ math: true
 mermaid: true
 
 ---
-![Desktop View](/images/Feb-2024/f-d.webp){: width="972" height="589" }
-_wind turbine for testing use_
+![Desktop View](/images/Feb-2024/f-d.jpg){: width="972" height="589" }
+_Fluid dynamics is a key part of my phd thesis_
 
 
 This weekly update provides a comprehensive overview of the key developments and noteworthy events from the past week.
