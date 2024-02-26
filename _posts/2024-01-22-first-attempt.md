@@ -12,7 +12,7 @@ math: true
 mermaid: true
 image:
   path: images/Feb-2024/w-d-flow.png
-  alt: wind turbine for first attempt
+  alt: wind turbine for testing use
 
 ---
 

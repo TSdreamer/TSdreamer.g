@@ -10,6 +10,7 @@ categories: [Homelab]
 tags: [Introduction]     # TAG names should always be lowercase
 image:
   path: /images/111.jpg
+  alt: The photo was taken in 2018 at Southeast University (SEU)
 ---
 
 # Welcome
