@@ -40,12 +40,8 @@ The progress report focuses on multi-scale electrolysis energy system modeling,e
 </p>
 
 3. Carbon Emission : Database Provided
+![Desktop View](/images/Feb-2024/city-carbon.png){: width="972" height="589" .w-50 .right}
 : Based on emissions data for 182 Chinese cities from 2010, I provided PhD students with datasets and algorithms for carbon calculation research. This mentorship, offering access to emissions data and analytical methods, aims to enhance their ability to conduct environmental assessments. This effort advances their research skills and contributes to understanding urban emissions, supporting effective carbon management and sustainability strategies.
-<p align="center">
-  <img src="/images/Feb-2024/city-carbon.png" width="720" height="400" alt="Desktop View">
-  <br>
-  <span>Background Literature Review Survey</span>
-</p>
 
 
 
