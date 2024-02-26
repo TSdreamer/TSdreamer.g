@@ -10,30 +10,36 @@ tags: [weekly updates]     # TAG names should always be lowercase
 comments: true
 math: true
 mermaid: true
+image:
+  path: /images/Feb-2024/M-L-A.png
+  alt: Machine learning algorithms 
+
 
 ---
 
-![Desktop View](/images/Feb-2024/ml-algorithm.jpg){: width="972" height="589" }
-_General machine learning algorithm_
-
-
 ## Key Achievements of this Week:(Working hours:40)
 
-> Complete the upload of the `1st Year Annual Review`(35/40).
-{: .prompt-tip }
-> Carbon Calculation Training about `City-level Database Provided`(3/40).
-{: .prompt-tip }
-> Preparation of `4th Version of TSu BP`(2/40).
-{: .prompt-tip }
+| Task | Status | Completion |
+|:---------------------------------------------------|:-------|-----------:|
+| 1st Year Annual Review                             | 35/40  | 87.5%      |
+| Carbon Calculation Training (City-level Database Provided) | 3/40   | 7.5%       |
+| Preparation of 4th Version of TSu BP               | 2/40   | 5%         |
 
+### Research Progress
 The progress report focuses on multi-scale electrolysis energy system modeling,emphasizing two main areas: system level operational dynamics optimization using Generative Adversarial Networks (GANs) and cell level descriptor database analysis. 
 
-The first section outlines the use of GANs to augment data for optimizing the operational dynamics of an electrolysis system, highlighting the process of generating synthetic data to overcome the limitations of small sample sizes and enhance model training.
+Annual Review : Paper 1
+: The first section outlines the use of GANs to augment data for optimizing the operational dynamics of an electrolysis system, highlighting the process of generating synthetic data to overcome the limitations of small sample sizes and enhance model training.
 
-![A visual representation of the process of using Generative Adversarial Networks (GANs) to generate synthetic data for enhancing the training of models within an electrolysis energy system.](/images/Feb-2024/system-outline-modified.png)
+![Desktop View](/images/Feb-2024/system-outline-modified.png){: width="972" height="589" .w-50 .right}
+![A visual representation of the process of using Generative Adversarial Networks (GANs) to generate synthetic data for enhancing the training of models within an electrolysis energy system.]
 
+Annual Review : Paper 2
+: The second section delves into the development of a comprehensive database for proton exchange membrane water electrolysis (PEMWE), using machine learning to predict membrane electrode assembly performance, showcasing the application of data science in improving electrolysis efficiency and reliability. This approach underscores the importance of integrating advanced computational techniques in renewable energy research to achieve significant strides in hydrogen production technology.
 
-The second section delves into the development of a comprehensive database for proton exchange membrane water electrolysis (PEMWE), using machine learning to predict membrane electrode assembly performance, showcasing the application of data science in improving electrolysis efficiency and reliability. This approach underscores the importance of integrating advanced computational techniques in renewable energy research to achieve significant strides in hydrogen production technology.
+![Desktop View](/images/Feb-2024/system-outline-modified.png){: width="972" height="589" .w-50 .right}
+![A visual representation of the process of using Generative Adversarial Networks (GANs) to generate synthetic data for enhancing the training of models within an electrolysis energy system.]
+
 
 # H1 - heading
 {: .mt-4 .mb-0 }
