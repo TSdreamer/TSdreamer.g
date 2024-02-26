@@ -29,18 +29,17 @@ image:
 The progress report focuses on multi-scale electrolysis energy system modeling,emphasizing two main areas: system level operational dynamics optimization using Generative Adversarial Networks (GANs) and cell level descriptor database analysis. 
 
 Annual Review : Paper 1
-![Desktop View](/images/Feb-2024/system-outline-modified.png){: width="972" height="589" .w-50 .right}
-_A visual representation_
+![Desktop View](/images/Feb-2024/system-outline-modified.png){: width="972" height="589"}
+_A visual representation of the process of using Generative Adversarial Networks (GANs) to generate synthetic data for enhancing the training of models within an electrolysis energy system_
 
-: The first section outlines the use of GANs to augment data for optimizing the operational dynamics of an electrolysis system, highlighting the process of generating synthetic data to overcome the limitations of small sample sizes and enhance model training.
-
+: The first part of Chapter 3 introduces an innovative approach to optimizing the operational dynamics of electrolysis energy systems using Generative Adversarial Networks (GANs). This section delves into the challenges of small dataset sizes in the field of renewable energy research, particularly in the context of electrolysis for hydrogen production. The researchers employed GANs to generate synthetic data, thus augmenting the existing datasets and overcoming the limitations imposed by scarce data. This process not only enhances the robustness of the model training but also preserves the statistical integrity of the original dataset, expanding it five-fold to over 2,000 data points. The preliminary evaluation of this synthetic data, conducted using a deep neural network (DNN) architecture, showed an increase in prediction accuracy, as evidenced by improvements in mean squared error (MSE) and R-squared (R²) metrics. This innovative approach signifies a leap forward in the predictive modeling of electrolysis system dynamics, paving the way for more efficient and reliable hydrogen production.
 
 
 Annual Review : Paper 2
-: The second section delves into the development of a comprehensive database for proton exchange membrane water electrolysis (PEMWE), using machine learning to predict membrane electrode assembly performance, showcasing the application of data science in improving electrolysis efficiency and reliability. This approach underscores the importance of integrating advanced computational techniques in renewable energy research to achieve significant strides in hydrogen production technology.
+: The second part of Chapter 3 focuses on the cell level descriptor database analysis for Proton Exchange Membrane Water Electrolysis (PEMWE). The section outlines the development of a comprehensive database aimed at reducing the power-specific cost and increasing the efficiency, reliability, and durability of PEMWE systems. By leveraging artificial intelligence and machine learning, the research introduces a novel method of data augmentation using GANs and Gaussian blur techniques to address the challenge of limited dataset sizes commonly encountered in laboratory settings. The database, consisting of over one thousand datasets and nearly forty thousand data points, allows for the prediction of membrane electrode assembly performance with remarkable accuracy. This approach not only enhances the understanding and optimization of PEMWEs but also exemplifies the potential of data science in revolutionizing renewable energy technologies.
 
-![Desktop View](/images/Feb-2024/system-outline-modified.png){: width="972" height="589" .w-50 .right}
-_A visual representation of the process of using Generative Adversarial Networks (GANs) to generate synthetic data for enhancing the training of models within an electrolysis energy system_
+![Desktop View](/images/Feb-2024/cell-outline-modified.png){: width="972" height="589" .w-50 .right}
+
 
 
 # H1 - heading
