@@ -27,8 +27,7 @@ image:
 
 ### Research Progress
 The progress report focuses on multi-scale electrolysis energy system modeling,emphasizing two main areas: system level operational dynamics optimization using Generative Adversarial Networks (GANs) and cell level descriptor database analysis. 
-\\
-\\
+
 Annual Review : Paper 1
 ![Desktop View](/images/Feb-2024/system-outline-modified.png){: width="972" height="589" .w-50 .right}
 : The first part of Chapter 3 introduces an innovative approach to optimizing the operational dynamics of electrolysis energy systems using Generative Adversarial Networks (GANs). This section delves into the challenges of small dataset sizes in the field of renewable energy research, particularly in the context of electrolysis for hydrogen production. The researchers employed GANs to generate synthetic data, thus augmenting the existing datasets and overcoming the limitations imposed by scarce data. This process not only enhances the robustness of the model training but also preserves the statistical integrity of the original dataset, expanding it five-fold to over 2,000 data points. The preliminary evaluation of this synthetic data, conducted using a deep neural network (DNN) architecture, showed an increase in prediction accuracy, as evidenced by improvements in mean squared error (MSE) and R-squared (R²) metrics. This innovative approach signifies a leap forward in the predictive modeling of electrolysis system dynamics, paving the way for more efficient and reliable hydrogen production.
@@ -39,7 +38,7 @@ Annual Review : Paper 2
 <p align="center">
   <img src="/images/Feb-2024/cell-outline-modified.png" width="780" height="420" alt="Desktop View">
   <br>
-  <span>Visual Representation of Electrolysis Cell Dynamics</span>
+  <span>Background Abstract Information</span>
 </p>
 
 
