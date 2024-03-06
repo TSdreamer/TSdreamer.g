@@ -1,5 +1,5 @@
 ---
 layout: default
-icon: fas fa-handshake
+icon: fas fa-business-time
 order: 6
 ---
