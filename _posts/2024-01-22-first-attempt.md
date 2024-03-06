@@ -6,7 +6,7 @@ date: 2024-01-29 01:13:00 +0000
   github: <TSdreamer>
   url: <tsdreamer.github.io>
 categories: [PhD Life]
-tags: [weekly updates]     # TAG names should always be lowercase
+
 comments: true
 math: true
 mermaid: true
