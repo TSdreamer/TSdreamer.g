@@ -5,6 +5,6 @@ order: 6
 ---
 
 - Project 1
-  Description of project 1.BALABALABALABALA
-  [Project 1](/testing.md)
+  Description of project 1.
+
   ![Project 1 Image](/images/SEU.png)
