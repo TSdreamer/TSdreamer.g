@@ -1,0 +1,12 @@
+---
+layout: default
+icon: fas fa-business-time
+order: 6
+---
+- Project 1
+  Description of project 1.
+  ![Project 1 Image](/images/project1.png)
+
+- Project 2
+  Description of project 2.
+  ![Project 2 Image](/images/project2.png)
