@@ -11,19 +11,19 @@ Haotian's independent work is carried out by himself alone, and this site is sel
 
 
 <div style="text-align: center; width: 100%;">
-<a href="/_posts/2024-03-24">
+<a href="/posts/03242024">
     <img src="/images/mit.webp" alt="MIT" style="width: auto; height: 120px; margin-right: 3%;" />
 </a>
-<a href="/_posts/2024-03-18">
+<a href="/posts/03182024">
     <img src="/images/UCL_logo.png" alt="MIT" style="width: auto; height: 120px; margin-right: 3%;" />
 </a>
-<a href="/_posts/2024-03-11">
+<a href="/posts/03112024">
     <img src="/images/UoB.png" alt="MIT" style="width: auto; height: 120px; margin-right: 3%;" />
 </a>
-<a href="/_posts/2024-03-24">
+<a href="/posts/03042024">
     <img src="/images/UoN.png" alt="MIT" style="width: auto; height: 120px; margin-right: 3%;" />
 </a>
-<a href="/_posts/2024-06-25">
+<a href="/posts/02262024">
     <img src="/images/SEU.png" alt="MIT" style="width: auto; height: 120px; margin-right: 3%;" />
 </a>
 </div>
