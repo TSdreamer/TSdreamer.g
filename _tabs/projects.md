@@ -15,7 +15,7 @@ Haotian's independent work is carried out by himself alone, and this site is sel
     <img src="/images/mit.webp" alt="MIT" style="width: auto; height: 120px; margin-right: 3%;" />
 </a>
 <a href="/posts/03182024">
-    <img src="/images/UoW34.png" alt="MIT" style="width: auto; height: 120px; margin-right: 3%;" />
+    <img src="/images/UCL_logo.png" alt="MIT" style="width: auto; height: 120px; margin-right: 3%;" />
 </a>
 <a href="/posts/03112024">
     <img src="/images/UoB.png" alt="MIT" style="width: auto; height: 120px; margin-right: 3%;" />

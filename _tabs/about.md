@@ -6,7 +6,7 @@ order: 9
 
 # Hi
 
-I'm Haotian MA, a doctoral researcher at the [University of Warwick](https://warwick.ac.uk/) focusing on applying data-driven method to accelerate the arrival of a sustainable energy fueled future.
+I'm Haotian MA, a doctoral researcher at the [University College London](https://www.ucl.ac.uk/) focusing on applying data-driven method to accelerate the arrival of a sustainable energy fueled future.
 
 I have a strong academic background in computer engineering, including completion of the [Institute of Data, System and Society, MIT](https://idss.mit.edu/) Summer Program and obtained a master's degree from the [University of Nottingham](https://www.nottingham.ac.uk/engineering/). I've finished impactful projects at the [University of Birmingham](https://www.birmingham.ac.uk/index.aspx) and the [Global Energy Interconnection Research Institute](https://geiri.eu/).
 
@@ -14,7 +14,7 @@ My bachelor's degree in engineering was obtained from [Southeast University](htt
 
 <div style="text-align: center; width: 100%;">
   <img src="/images/mit.webp" alt="MIT" style="width: auto; height: 120px; margin-right: 3%;" />
-  <img src="/images/UoW34.png" alt="UoW" style="width: auto; height: 120px; margin-right: 3%;" />
+  <img src="/images/UCL_logo.png" alt="UoW" style="width: auto; height: 120px; margin-right: 3%;" />
   <img src="/images/UoB.png" alt="UoB" style="width: auto; height: 120px; margin-right: 3%;" />
   <img src="/images/UoN.png" alt="UoN" style="width: auto; height: 120px; margin-right: 3%;"  />
   <img src="/images/SEU.png" alt="SEU" style="width: auto; height: 120px; margin-right: 5%;"  />
