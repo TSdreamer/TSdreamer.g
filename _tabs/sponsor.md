@@ -5,7 +5,7 @@ order: 7
 
 # 🤝 Help Haotian Continue to Grow !
 
-Haotian's independent work is carried out by himself alone, and this site is self-hosted. If you'd like to help Haotian grow faster, consider supporting him through one of the following options:
+Haotian's independent work is carried out by himself and partially sponsored by an industrial supplier, and this site is self-hosted. If you'd like to help Haotian grow faster, consider supporting him through one of the following options:
 
 You can support Haotian and Haotian's work directly:
 

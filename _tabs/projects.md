@@ -7,7 +7,7 @@ order: 6
 
 # 🤝 It is a testing page of HAOTIAN !
 
-Haotian's independent work is carried out by himself alone, and this site is self-hosted. If you'd like to help Haotian grow faster, consider supporting him through one of the following options:
+This site is self-hosted, and Haotian's independent work is conducted by himself. His work can be classified based on his experience across five different research institutes. However, the project is currently in the testing stage and still under development.
 
 
 <div style="text-align: center; width: 100%;">
