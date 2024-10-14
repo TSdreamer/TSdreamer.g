@@ -88,6 +88,9 @@ image:
 # Faculty Profiles
 
 ## 1. Dr. Priscila Carvalho
+
+![Priscila Carvalho](/images/UCL-2024/CP.jpg){: width="572" height="589" .w-20 .right}
+
 **Title:** Lecturer in Environmental Law and Sustainability at UCL Energy Institute, Bartlett School of Environment, Energy and Resources (BSEER)
 
 **Profile Summary:**
@@ -117,6 +120,7 @@ Her academic background includes an LLM from UCL Laws and a PhD from the UCL Ene
 ---
 
 ## 2. Prof. Catalina Spataru
+![Catalina Spataru](/images/UCL-2024/catalina_spataru.png){: width="2972" height="589" .w-50 .right}
 
 **Title:** Professor in Global Energy and Resources & Director of UCL Energy Institute
 
