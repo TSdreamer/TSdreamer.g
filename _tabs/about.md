@@ -15,7 +15,7 @@ My bachelor's degree in engineering was obtained from [Southeast University](htt
 <div style="text-align: center; width: 100%;">
   <img src="/images/mit.webp" alt="MIT" style="width: auto; height: 120px; margin-right: 3%;" />
   <img src="/images/UCL_logo.png" alt="UoW" style="width: auto; height: 120px; margin-right: 3%;" />
-  <img src="/images/Warwick_Crest.svg.png" alt="UoW" style="width: auto; height: 120px; margin-right: 3%;" />
+  <img src="/images/UoW.png" alt="UoW" style="width: auto; height: 120px; margin-right: 3%;" />
   <img src="/images/UoN.png" alt="UoN" style="width: auto; height: 120px; margin-right: 3%;"  />
   <img src="/images/SEU.png" alt="SEU" style="width: auto; height: 120px; margin-right: 5%;"  />
 </div>
