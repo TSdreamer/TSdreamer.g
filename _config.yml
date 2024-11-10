@@ -24,10 +24,10 @@ timezone: Europe/London
 
 title: Haotian MA # the main title
 
-tagline: Welcome to follow my channel and join me in building a sustainable energy-driven future. # it will display as the sub-title
+tagline: Welcome to follow my channel and join me in building a sustainable data-driven future. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  I am here to use a data-driven method to acclerate the arrival of a sustainable future.
+  I am here to use data-driven methods to acclerate the arrival of a sustainable future.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
