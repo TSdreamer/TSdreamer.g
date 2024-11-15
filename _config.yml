@@ -75,7 +75,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: light
+# theme_mode: light
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -107,7 +107,7 @@ comments:
   giscus:
     repo: TSdreamer/TSdreamer.github.io
     repo_id: 746808097
-    category: Announcements
+    category: Comments
     category_id: DIC_kwDOLINjIc4Cc7Vt
     mapping: pathname          # optional, default to 'pathname'
     input_position: bottom  # optional, default to 'bottom'
@@ -126,7 +126,7 @@ assets:
 pwa:
   enabled: true # the option for PWA feature
 
-paginate: 5
+paginate: 8
 
 # The base URL of your site
 baseurl: ""
