@@ -14,15 +14,16 @@ My bachelor's degree in engineering was obtained from [Southeast University](htt
 
 <div style="text-align: center; width: 100%;">
   <img src="/images/SEU.png" alt="SEU" style="width: auto; height: 120px; margin-right: 5%;" />
-  <img src="/images/UoN.png" alt="UoN" style="width: auto; height: 120px; margin-right: 3%;" />
-  <img src="/images/UoB.png" alt="UoB" style="width: auto; height: 120px; margin-right: 3%;" />
-  <img src="/images/UoW.png" alt="UoW" style="width: auto; height: 120px; margin-right: 3%;" />
-  <img src="/images/UCL_logo.png" alt="UCL" style="width: auto; height: 120px; margin-right: 3%;" />
-  <img src="/images/mit.webp" alt="MIT" style="width: auto; height: 120px; margin-right: 3%;" />
+  <img src="/images/UoN.png" alt="UoN" style="width: auto; height: 120px; margin-right: 4%;" />
+  <img src="/images/UoB.png" alt="UoB" style="width: auto; height: 120px; margin-right: 4%;" />
+  <img src="/images/UoW.png" alt="UoW" style="width: auto; height: 120px; margin-right: 4%;" />
+  <img src="/images/UCL_logo.png" alt="UCL" style="width: auto; height: 120px; margin-right: 4%;" />
+  <img src="/images/mit.webp" alt="MIT" style="width: auto; height: 120px; margin-right: 4%;" />
 </div>
 
 
-During my time at the university, I established strong relationships with several prominent industry companies, including the [Global Energy Interconnect Research Institute (Munich)](https://geiri.eu/), [Huawei European Research Institute (Nuremberg and Munich)](https://www.huawei.com/de/),and [Nvidia (California)](https://www.nvidia.com/en-gb/). My role primarily involved serving as a research engineer, where I provided technical support in modeling and coding to teams focusing on artificial intelligence and energy systems.
+During my tenure at the university, I cultivated robust partnerships with leading global industry players, including the [Global Energy Interconnection Research Institute (Munich)](https://geiri.eu/), [Huawei European Research Institute (Nuremberg and Munich)](https://www.huawei.com/de/), and [Nvidia (California)](https://www.nvidia.com/en-gb/). Serving as a research engineer, I played a pivotal role in providing strategic guidance and advanced technical expertise in modeling and coding to teams specializing in artificial intelligence and energy systems.
+
 
 <div style="text-align: center; width: 100%;">
   <img src="/images/GEIRI.png" alt="GEIRI" style="width: auto; height: 120px; margin-right: 10%;" />
