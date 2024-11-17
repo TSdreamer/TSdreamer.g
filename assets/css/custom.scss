@@ -1,0 +1,83 @@
+/* assets/css/custom.scss */
+
+/* 引入 Chirpy 主题的主样式 */
+@import "themes/chirpy/assets/css/style";
+
+/* 新闻模块样式 */
+#news-widget {
+    position: fixed;
+    bottom: 20px; /* 距离底部20px，可根据需要调整 */
+    right: 20px;  /* 距离右侧20px，可根据需要调整 */
+    width: 250px; /* 宽度根据内容调整 */
+    background-color: rgba(255, 255, 255, 0.95); /* 半透明背景 */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    z-index: 1000; /* 确保在最上层 */
+    font-family: Arial, sans-serif; /* 根据需要调整字体 */
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    opacity: 0.9;
+}
+
+#news-widget:hover {
+    opacity: 1;
+    transform: scale(1.05);
+}
+
+#news-widget h3 {
+    margin-top: 0;
+    font-size: 18px;
+    text-align: center;
+    color: #333;
+}
+
+#news-list {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+#news-list li {
+    margin-bottom: 10px;
+}
+
+#news-list li a {
+    text-decoration: none;
+    color: #007BFF;
+    transition: color 0.3s;
+}
+
+#news-list li a:hover {
+    color: #0056b3;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    #news-widget {
+        width: 90%;
+        right: 5%;
+        bottom: 10px;
+        padding: 10px;
+    }
+
+    #news-widget h3 {
+        font-size: 16px;
+    }
+
+    #news-list li {
+        margin-bottom: 8px;
+    }
+}
+
+/* 美化滚动条（可选） */
+#news-list::-webkit-scrollbar {
+    width: 8px;
+}
+
+#news-list::-webkit-scrollbar-thumb {
+    background-color: rgba(0,0,0,0.2);
+    border-radius: 4px;
+}
