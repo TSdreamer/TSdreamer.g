@@ -149,6 +149,11 @@ collections:
     output: true
     sort_by: order
 
+# The following options are used to customize the theme
+chirpy:
+  after_footer:
+    - "news-widget.html"
+
 defaults:
   - scope:
       path: "" # An empty string here means all files in the project
