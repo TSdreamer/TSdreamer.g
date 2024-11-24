@@ -24,14 +24,6 @@ My bachelor's degree in engineering was obtained from [Southeast University](htt
 
 During my tenure at the university, I cultivated robust partnerships with leading global industry players, including the [Global Energy Interconnection Research Institute (Munich)](https://geiri.eu/), [Huawei European Research Institute (Nuremberg and Munich)](https://www.huawei.com/de/), and [Nvidia (California)](https://www.nvidia.com/en-gb/). Serving as a research engineer, I played a pivotal role in providing strategic guidance and advanced technical expertise in modeling and coding to teams specializing in artificial intelligence and energy systems.
 
-
-<div style="text-align: center; width: 100%;">
-  <img src="/images/GEIRI.png" alt="GEIRI" style="width: auto; height: 120px; margin-right: 10%;" />
-  <img src="/images/HW.png" alt="HW" style="width: auto; height: 120px; margin-right: 10%;" />
-  <img src="/images/nvidia.png" alt="nvidia" style="width: auto; height: 120px; margin-right: 10%;" />
-</div>
-
-
 With over two years of experience in the energy sector, I've applied data-driven methods to further optimize energy systems, reduce carbon emissions, and enhance efficiency and security, resulting in contributions to publications and patents in the field. 
 
 ## Contact

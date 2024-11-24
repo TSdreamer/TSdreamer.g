@@ -164,3 +164,12 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 [^footnote]: The footnote source
 [^fn-nth-2]: The 2nd footnote source
+
+
+
+
+<div style="text-align: center; width: 100%;">
+  <img src="/images/GEIRI.png" alt="GEIRI" style="width: auto; height: 120px; margin-right: 10%;" />
+  <img src="/images/HW.png" alt="HW" style="width: auto; height: 120px; margin-right: 10%;" />
+  <img src="/images/nvidia.png" alt="nvidia" style="width: auto; height: 120px; margin-right: 10%;" />
+</div>
